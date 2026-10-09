@@ -18,7 +18,7 @@ I bridge 20+ years of institutional financial reporting, EU regulatory complianc
 
 ### 🚀 Featured Portfolio Project
 
-#### 🛡️ #### 🛡️ [GenAI Risk Copilot — Enterprise EWS & MRM Platform](https://github.com/theo-karopoulos/EWS-GenAI-Risk-Copilot)
+#### 🛡️ [GenAI Risk Copilot — Enterprise EWS & MRM Platform](https://github.com/theo-karopoulos/EWS-GenAI-Risk-Copilot)
 [![Live Demo](https://img.shields.io/badge/Demo-Live%20App-blue?style=flat&logo=streamlit)](https://ews-genai-risk-copilot-5nr6rzjb6grgdzxhufm6q5.streamlit.app)
 An end-to-end Early Warning System (EWS) and Model Risk Management platform built for financial advisory and credit risk evaluation.
 * **Predictive Analytics:** XGBoost classifier predicting 2-year probability of default ($ROC-AUC = 0.868$, $Gini = 0.736$).
