@@ -3,7 +3,7 @@
 **Senior Financial Data, Statistical & Regulatory Reporting Specialist**  
 *MSc Investment Analysis | BSc Statistics & Insurance Science*
 
-[📄 Download Full Analytical CV (PDF)](./Theodoros%20Karopoulos%20-%20CV.pdf) &nbsp;|&nbsp; 🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+[📄 Download Full Analytical CV (PDF)](./Theodoros%20Karopoulos%20-%20CV.pdf)
 
 ---
 
